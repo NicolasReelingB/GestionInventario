@@ -31,13 +31,10 @@ npm install
 
 npm run dev
 
-5. Ejecutar el script App.py
+### 5. Ejecutar el script App.py
 Regresa al directorio principal del proyecto y ejecuta App.py:
 
-cd ..
 python App.py
 
 Una vez que hayas completado los pasos anteriores, deberías tener el servidor backend y la interfaz web ejecutándose. Puedes acceder a la aplicación web en tu navegador web en http://localhost:3000.
 
-Contribuciones
-Si deseas contribuir al proyecto, por favor, abre un issue o envía un pull request. Las contribuciones son bienvenidas y apreciadas.

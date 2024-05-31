@@ -19,14 +19,18 @@ Primero, asegúrate de estar en el directorio del proyecto y luego instala las d
 Para instalar Detectron2, ejecuta el siguiente comando:
 
 pip install detectron2 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.8/index.html
+
 Asegúrate de cambiar la URL del archivo según tu versión de CUDA y PyTorch si es necesario.
 
 ### 4. Configurar y ejecutar la interfaz web
 Navega al directorio Reto-WEB y levanta el proyecto con npm:
 
 cd Reto-WEB
+
 npm install
+
 npm run dev
+
 5. Ejecutar el script App.py
 Regresa al directorio principal del proyecto y ejecuta App.py:
 
